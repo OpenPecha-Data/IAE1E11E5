@@ -1,0 +1,24 @@
+id: IAE1E11E5
+initial_creation_type: ebook
+source_metadata:
+  id: BEN-SH-019
+  title: ᨌᨎ ᨎདོ་ཧ་མཛད་ཅེས་བྱ་བ་ཕྱག་རྒྱ་ཆེན་པོའི་མན་ངག་གི་འགྲེལ་ཆུང་རྣལ་འབྱོར་ཡེ་ཤེས་ཅེས་བྱ་བ་བཞུགས་སོ།
+  author: མཛད་པ་པོ། ས་ར་ཧ། སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  authors: &id001
+  - མཛད་པ་པོ། ས་ར་ཧ། སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  sku: BEN-SH-019
+  cover: BEN-SH-019.jpg
+  volume: {}
+ebook_metadata:
+  title: ᨌᨎ ᨎདོ་ཧ་མཛད་ཅེས་བྱ་བ་ཕྱག་རྒྱ་ཆེན་པོའི་མན་ངག་གི་འགྲེལ་ཆུང་རྣལ་འབྱོར་ཡེ་ཤེས་ཅེས་བྱ་བ་བཞུགས་སོ།
+  authors: *id001
+  sku: BEN-SH-019
+  cover: BEN-SH-019.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
